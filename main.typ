@@ -202,6 +202,7 @@
       [
         - Rapresentative of Computer Engineering students (Sep 2025 - Sep 2026)
         - Head of Production and Co-Founder of PoliTalks (Sep 2023 - Sep 2026)
+        - IT administrator of PoliNetwork (Sep 2024 - Today)
       ],
     ),
   ),
